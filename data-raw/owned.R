@@ -1,6 +1,6 @@
 library(dplyr)
 
-owned = readr::read_csv("owned.csv", col_names = "id") %>%
+owned = readr::read_csv("owned.csv") %>%
   unique() %>%
   arrange(id)
 
