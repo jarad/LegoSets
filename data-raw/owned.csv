@@ -1,95 +1,80 @@
-id
-75089
-75130
-75145
-21123
-21113
-75135
-31021
-70503
-75085
-8020
-6061
-6077
-6952
-6951
-1682
-75131
-75099
-60117
-75137
-6392
-75128
-6941
-8660
-6970
-8890
-6482
-6074
-720
-31313
-3065
-75132
-75129
-75089
-31013
-75138
-75091
-60092
-75130
-60117
-60116
-60079
-60080
-70226
-41062
-60080
-31010
-75075
-41088
-41089
-30115
-60079
-31010
-60077
-60078
-41032
-75074
-70753
-70226
-70780
-60092
-70139
-60083
-75134
-75073
-60060
-60090
-60035
-30310
-75077
-60056
-60013
-70794
-60060
-40154
-60011
-60036
-60056
-60057
-60035
-60091
-60034
-70792
-60036
-76015
-60002
-10672
-60036
-70137
-60118
-70723/1
-70723/2
-70726
-70721
-70720
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned,Rating
+3834,"720","1","Basic","","1985","Basic Building Set, 7+",1,334,,,,,"http://images.brickset.com/sets/images/720-1.jpg","Yes","No",1,
+505,"1682","1","Town","Flight","1990","Space Shuttle Launch",3,423,,,,,"http://images.brickset.com/sets/images/1682-1.jpg","Yes","No",1,
+8892,"3065","1","Friends","","2012","Olivia's Tree House",1,191,19.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/3065-1.jpg","Yes","No",1,
+3027,"6061","1","Castle","Lion Knights","1984","Siege Tower",4,216,,17.5,,,"http://images.brickset.com/sets/images/6061-1.jpg","Yes","No",1,
+3034,"6074","1","Castle","Black Falcons","1986","Black Falcon's Fortress",6,430,25,35,,,"http://images.brickset.com/sets/images/6074-1.jpg","Yes","No",1,
+3038,"6077","1","Castle","Classic","1981","Knight's Procession",6,48,,5,,,"http://images.brickset.com/sets/images/6077-1.jpg","Yes","No",1,
+3248,"6392","1","Town","Flight","1985","Airport",8,530,,52.75,,,"http://images.brickset.com/sets/images/6392-1.jpg","Yes","No",1,
+3333,"6482","1","Town","Rescue","1989","Rescue Helicopter",3,198,,35,,,"http://images.brickset.com/sets/images/6482-1.jpg","Yes","No",1,
+3721,"6941","1","Space","Blacktron","1987","Battrax",1,284,,,,,"http://images.brickset.com/sets/images/6941-1.jpg","Yes","No",1,
+3726,"6951","1","Space","Classic","1984","Robot Command Center",3,295,,,,,"http://images.brickset.com/sets/images/6951-1.jpg","Yes","No",1,
+3727,"6952","1","Space","Classic","1985","Solar Power Transporter",5,317,,36.5,,,"http://images.brickset.com/sets/images/6952-1.jpg","Yes","No",1,
+3740,"6970","1","Space","Classic","1980","Beta I Command Base",4,264,,37,,,"http://images.brickset.com/sets/images/6970-1.jpg","Yes","No",1,
+23073,"10672","1","Juniors","DC Comics Super Heroes","2014","Batman: Defend the Batcave",3,150,29.99,29.99,29.99,32.99,"http://images.brickset.com/sets/images/10672-1.jpg","Yes","No",1,
+23633,"21113","1","Minecraft","Minifig-scale","2014","The Cave",2,249,19.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/21113-1.jpg","Yes","No",1,
+24752,"21123","1","Minecraft","Minifig-scale","2016","The Iron Golem",2,208,19.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/21123-1.jpg","Yes","No",1,
+23605,"30115","1","Friends","","2014","Jungle Boat",1,31,,4.99,,,"http://images.brickset.com/sets/images/30115-1.jpg","Yes","No",1,
+23607,"30310","1","City","Arctic","2014","Arctic Scout",1,40,,,,,"http://images.brickset.com/sets/images/30310-1.jpg","Yes","No",1,
+9976,"31003","1","Creator","","2013","Red Rotors",,145,9.99,14.99,17.99,9.99,"http://images.brickset.com/sets/images/31003-1.jpg","Yes","No",1,
+9980,"31007","1","Creator","","2013","Power Mech",,223,14.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/31007-1.jpg","Yes","No",1,
+10257,"31010","1","Creator","","2013","Treehouse",1,356,24.99,29.99,39.99,29.99,"http://images.brickset.com/sets/images/31010-1.jpg","Yes","No",1,
+23054,"31013","1","Creator","","2014","Red Thunder",,66,4.99,4.99,6.99,4.99,"http://images.brickset.com/sets/images/31013-1.jpg","Yes","No",1,
+22976,"31019","1","Creator","","2014","Forest Animals",,272,17.99,19.99,24.99,12.59,"http://images.brickset.com/sets/images/31019-1.jpg","Yes","No",1,
+23059,"31021","1","Creator","","2014","Furry Creatures",,285,17.99,19.99,24.99,12.59,"http://images.brickset.com/sets/images/31021-1.jpg","Yes","No",1,
+10369,"31313","1","Mindstorms","EV3","2013","Mindstorms EV3",,601,299.99,349.99,399.99,349.99,"http://images.brickset.com/sets/images/31313-1.jpg","Yes","No",1,
+24351,"40154","1","Miscellaneous","","2015","Iconic Pencil Pot",2,174,10.99,14.99,17.99,12.99,"http://images.brickset.com/sets/images/40154-1.jpg","Yes","No",1,
+23342,"41032","1","Friends","Jungle Rescue","2014","First Aid Jungle Bike",1,156,12.99,14.99,17.99,10.49,"http://images.brickset.com/sets/images/41032-1.jpg","Yes","No",1,
+23832,"41062","1","Disney Princess","Frozen","2015","Elsa's Sparkling Ice Castle",3,292,34.99,39.99,49.99,39.99,"http://images.brickset.com/sets/images/41062-1.jpg","Yes","No",1,
+23853,"41088","1","Friends","","2015","Puppy Training",,65,3.99,4.99,7.99,4.99,"http://images.brickset.com/sets/images/41088-1.jpg","Yes","No",1,
+23854,"41089","1","Friends","","2015","Little Foal",,43,3.99,4.99,7.99,4.99,"http://images.brickset.com/sets/images/41089-1.jpg","Yes","No",1,
+9911,"60002","1","City","Fire","2013","Fire Truck",2,209,14.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60002-1.jpg","Yes","No",1,
+10272,"60011","1","City","Coast Guard","2013","Surfer Rescue",2,32,4.99,6.99,8.99,4.19,"http://images.brickset.com/sets/images/60011-1.jpg","Yes","No",1,
+10273,"60013","1","City","Coast Guard","2013","Coast Guard Helicopter",4,230,24.99,39.99,49.99,29.99,"http://images.brickset.com/sets/images/60013-1.jpg","Yes","No",1,
+23299,"60034","1","City","Arctic","2014","Arctic Helicrane",2,262,24.99,39.99,49.99,29.99,"http://images.brickset.com/sets/images/60034-1.jpg","Yes","No",1,
+23300,"60035","1","City","Arctic","2014","Arctic Outpost",3,374,34.99,49.99,59.99,39.99,"http://images.brickset.com/sets/images/60035-1.jpg","Yes","No",1,
+23301,"60036","1","City","Arctic","2014","Arctic Base Camp",7,733,69.99,89.99,109.99,89.99,"http://images.brickset.com/sets/images/60036-1.jpg","Yes","No",1,
+22985,"60056","1","City","Traffic","2014","Tow Truck",1,227,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60056-1.jpg","Yes","No",1,
+22986,"60057","1","City","Traffic","2014","Camper Van",2,195,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60057-1.jpg","Yes","No",1,
+22989,"60060","1","City","Traffic","2014","Auto Transporter",2,350,24.99,29.99,39.99,29.99,"http://images.brickset.com/sets/images/60060-1.jpg","Yes","No",1,
+24140,"60077","1","City","Space","2015","Space Starter Set",4,107,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/60077-1.jpg","Yes","No",1,
+24141,"60078","1","City","Space","2015","Utility Shuttle",2,155,17.99,24.99,29.99,19.99,"http://images.brickset.com/sets/images/60078-1.jpg","Yes","No",1,
+24142,"60079","1","City","Space","2015","Training Jet Transporter",3,448,39.99,49.99,59.99,49.99,"http://images.brickset.com/sets/images/60079-1.jpg","Yes","No",1,
+24143,"60080","1","City","Space","2015","Spaceport",5,586,69.99,119.99,149.99,89.99,"http://images.brickset.com/sets/images/60080-1.jpg","Yes","No",1,
+23888,"60083","1","City","Traffic","2015","Snowplough Truck",1,196,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60083-1.jpg","Yes","No",1,
+24144,"60090","1","City","Deep Sea Explorers","2015","Deep Sea Scuba Scooter",1,42,4.99,6.99,8.99,5.99,"http://images.brickset.com/sets/images/60090-1.jpg","Yes","No",1,
+24145,"60091","1","City","Deep Sea Explorers","2015","Deep Sea Starter Set",3,90,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/60091-1.jpg","Yes","No",1,
+24146,"60092","1","City","Deep Sea Explorers","2015","Deep Sea Submarine",3,274,24.99,39.99,49.99,29.99,"http://images.brickset.com/sets/images/60092-1.jpg","Yes","No",1,
+24683,"60116","1","City","Medical","2016","Ambulance Plane",3,183,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60116-1.jpg","Yes","No",1,
+24684,"60117","1","City","Traffic","2016","Van & Caravan",2,250,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60117-1.jpg","Yes","No",1,
+24685,"60118","1","City","Traffic","2016","Garbage Truck",2,248,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/60118-1.jpg","Yes","No",1,
+22951,"70137","1","Legends of Chima","Speedorz","2014","Bat Strike",1,97,9.99,12.99,17.99,14.99,"http://images.brickset.com/sets/images/70137-1.jpg","Yes","No",1,
+22953,"70139","1","Legends of Chima","Speedorz","2014","Sky Launch",1,111,9.99,12.99,17.99,14.99,"http://images.brickset.com/sets/images/70139-1.jpg","Yes","No",1,
+23847,"70226","1","Legends of Chima","Fire vs. Ice","2015","Mammoth's Frozen Stronghold",5,621,49.99,59.99,74.99,32.49,"http://images.brickset.com/sets/images/70226-1.jpg","Yes","No",1,
+9885,"70503","1","Ninjago","The Final Battle","2013","The Golden Dragon",3,252,24.99,29.99,39.99,29.99,"http://images.brickset.com/sets/images/70503-1.jpg","Yes","No",1,
+23091,"70720","1","Ninjago","Rebooted","2014","Hover Hunter",2,79,9.99,11.99,15.99,9.99,"http://images.brickset.com/sets/images/70720-1.jpg","Yes","No",1,
+23092,"70721","1","Ninjago","Rebooted","2014","Kai Fighter",2,196,17.99,19.99,24.99,19.99,"http://images.brickset.com/sets/images/70721-1.jpg","Yes","No",1,
+23094,"70723","1","Ninjago","Rebooted","2014","Thunder Raider",3,334,24.99,29.99,39.99,29.99,"http://images.brickset.com/sets/images/70723-1.jpg","Yes","No",1,
+23185,"70726","1","Ninjago","Rebooted","2014","Destructoid",3,253,24.99,34.99,44.99,29.99,"http://images.brickset.com/sets/images/70726-1.jpg","Yes","No",1,
+23873,"70753","1","Ninjago","Tournament of Elements","2015","Lava Falls",2,94,7.99,7.99,9.99,9.99,"http://images.brickset.com/sets/images/70753-1.jpg","Yes","No",1,
+23959,"70780","1","Bionicle","Companions","2015","Protector of Water",,71,9.99,9.99,12.99,6.99,"http://images.brickset.com/sets/images/70780-1.jpg","Yes","No",1,
+24180,"70792","1","Bionicle","Reboot Villains","2015","Skull Slicer",,71,12.99,14.99,17.99,10.49,"http://images.brickset.com/sets/images/70792-1.jpg","Yes","No",1,
+24182,"70794","1","Bionicle","Reboot Villains","2015","Skull Scorpio",,107,12.99,14.99,17.99,10.49,"http://images.brickset.com/sets/images/70794-1.jpg","Yes","No",1,
+23793,"75073","1","Star Wars","MicroFighters","2015","Vulture Droid",1,77,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75073-1.jpg","Yes","No",1,
+23794,"75074","1","Star Wars","MicroFighters","2015","Snowspeeder",1,97,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75074-1.jpg","Yes","No",1,
+23795,"75075","1","Star Wars","MicroFighters","2015","AT-AT",1,88,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75075-1.jpg","Yes","No",1,
+23797,"75077","1","Star Wars","MicroFighters","2015","Homing Spider Droid",1,102,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75077-1.jpg","Yes","No",1,
+23833,"75085","1","Star Wars","Episode II","2015","Hailfire Droid",3,163,19.99,19.99,24.99,26.99,"http://images.brickset.com/sets/images/75085-1.jpg","Yes","No",1,
+23785,"75089","1","Star Wars","Legends","2015","Geonosis Troopers",4,105,11.99,12.99,15.99,16.99,"http://images.brickset.com/sets/images/75089-1.jpg","Yes","No",1,
+24219,"75091","1","Star Wars","Episode I","2015","Flash Speeder",5,312,34.99,29.99,39.99,39.99,"http://images.brickset.com/sets/images/75091-1.jpg","Yes","No",1,
+24223,"75099","1","Star Wars","The Force Awakens","2015","Rey's Speeder",2,193,19.99,19.99,24.99,26.99,"http://images.brickset.com/sets/images/75099-1.jpg","Yes","No",1,
+24787,"75128","1","Star Wars","MicroFighters","2016","TIE Advanced Prototype",1,93,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75128-1.jpg","Yes","No",1,
+24788,"75129","1","Star Wars","MicroFighters","2016","Wookiee Gunship",1,84,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75129-1.jpg","Yes","No",1,
+24789,"75130","1","Star Wars","MicroFighters","2016","AT-DP",1,76,8.99,9.99,12.99,9.99,"http://images.brickset.com/sets/images/75130-1.jpg","Yes","No",1,
+24790,"75131","1","Star Wars","The Force Awakens","2016","Resistance Trooper Battle Pack",4,112,11.99,12.99,15.99,16.99,"http://images.brickset.com/sets/images/75131-1.jpg","Yes","No",2,
+24791,"75132","1","Star Wars","The Force Awakens","2016","First Order Battle Pack",4,88,11.99,12.99,15.99,16.99,"http://images.brickset.com/sets/images/75132-1.jpg","Yes","No",1,
+24792,"75134","1","Star Wars","Battlefront","2016","Galactic Empire Battle Pack",4,109,11.99,12.99,15.99,16.99,"http://images.brickset.com/sets/images/75134-1.jpg","Yes","No",1,
+24796,"75137","1","Star Wars","Episode V","2016","Carbon-Freezing Chamber",3,231,19.99,24.99,29.99,29.99,"http://images.brickset.com/sets/images/75137-1.jpg","Yes","No",1,
+24797,"75138","1","Star Wars","Episode V","2016","Hoth Attack",4,233,19.99,24.99,29.99,29.99,"http://images.brickset.com/sets/images/75138-1.jpg","Yes","No",1,
+25898,"75145","1","Star Wars","Original Content","2016","Eclipse Fighter",2,363,34.99,29.99,39.99,39.99,"http://images.brickset.com/sets/images/75145-1.jpg","Yes","No",1,
+23200,"76015","1","Marvel Super Heroes","Ultimate Spider-Man","2014","Doc Ock Truck Heist",3,237,19.99,19.99,24.99,24.99,"http://images.brickset.com/sets/images/76015-1.jpg","Yes","No",1,

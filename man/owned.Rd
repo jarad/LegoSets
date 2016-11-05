@@ -4,7 +4,25 @@
 \name{owned}
 \alias{owned}
 \title{Owned data sets}
-\format{A data.frame with 1 variable: \code{id}}
+\format{A data.frame with 18 variables:
+  \code{SetID}
+  \code{Number}
+  \code{Variant}
+  \code{Theme}
+  \code{Subtheme}
+  \code{Year}
+  \code{Name}
+  \code{Minifigs}
+  \code{Pieces}
+  \code{UKPrice}
+  \code{USPrice}
+  \code{CAPPrice}
+  \code{EUPrice}
+  \code{ImageURL}
+  \code{Owned}
+  \code{Wanted}
+  \code{QtyOwned}
+  \code{Rating}}
 \usage{
 owned
 }
