@@ -1,0 +1,16 @@
+Package: LegoSets
+Title: Functions and data sets for dealing with legos
+Version: 0.1
+Authors@R: person("Jarad", "Niemi", email = "jaradniemi@gmail.com.com", role = c("aut", "cre"))
+Description: Primarily this package has a data.frame that contains the IDs
+    for the legos I own. In the future it may have functions to get instruction
+    manuals or pictures of those sets.
+Depends:
+    R (>= 3.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    dplyr,
+    readr
+RoxygenNote: 5.0.1
